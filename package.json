@@ -1,0 +1,25 @@
+{
+  "name": "find-in-pi",
+  "version": "3.1.4",
+  "description": "Find where a number is located in Pi",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "keywords": [
+    "3.14",
+    "Pi",
+    "PI",
+    "π"
+  ],
+  "author": "convoitise <convoitise@outlook.com> (https://twitter.com/EXconvoitise)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/my_package/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/my_package"
+}
