@@ -1,6 +1,6 @@
 {
   "name": "find-in-pi",
-  "version": "3.1.4",
+  "version": "3.1.5",
   "description": "Find where a number is located in Pi",
   "main": "main.js",
   "scripts": {
