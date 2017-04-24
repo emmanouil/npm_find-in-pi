@@ -16,8 +16,8 @@
     "PI",
     "π"
   ],
-  "author": "convoitise <convoitise@outlook.com> (https://twitter.com/EXconvoitise)",
-  "license": "BSD",
+  "author": "emmanouil <nigel_fry@zoho.eu>",
+  "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/emmanouil/npm_find-in-pi/issues"
   },
