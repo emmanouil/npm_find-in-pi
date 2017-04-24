@@ -22,7 +22,7 @@ Supported commands:
 
 ## Tests
 
-  `npm test`
+  TODO
 
 ## Contributing
 
